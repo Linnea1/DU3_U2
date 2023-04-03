@@ -1,0 +1,72 @@
+{
+    "Afghan Hound": {
+        "id": 0,
+        "dog": "Afghan Hound",
+        "image": "Afghan_Hound.jpg"
+    },
+    "Australian Shepherd": {
+        "id": 1,
+        "dog": "Australian Shepherd",
+        "image": "Australian_Shepherd.jpg"
+    },
+    "Beagle": {
+        "id": 2,
+        "dog": "Beagle",
+        "image": "Beagle.jpg"
+    },
+    "Bearded Collie": {
+        "id": 3,
+        "dog": "Bearded Collie",
+        "image": "Bearded_Collie.jpg"
+    },
+    "Boston Terrier": {
+        "id": 4,
+        "dog": "Boston Terrier",
+        "image": "Boston_Terrier.jpg"
+    },
+    "Boxer": {
+        "id": 5,
+        "dog": "Boxer",
+        "image": "Boxer.jpg"
+    },
+    "Bulldog": {
+        "id": 6,
+        "dog": "Bulldog",
+        "image": "Bulldog.jpg"
+    },
+    "Cane Corso": {
+        "id": 7,
+        "dog": "Cane Corso",
+        "image": "Cane_Corso.jpg"
+    },
+    "Chihuahua": {
+        "id": 8,
+        "dog": "Chihuahua",
+        "image": "Chihuahua.jpg"
+    },
+    "Collie": {
+        "id": 9,
+        "dog": "Collie",
+        "image": "Collie.jpg"
+    },
+    "French Bulldog": {
+        "id": 10,
+        "dog": "French Bulldog",
+        "image": "French_Bulldog.jpg"
+    },
+    "German Shepherd": {
+        "id": 11,
+        "dog": "German Shepherd",
+        "image": "German_Shepherd.jpg"
+    },
+    "Giant Schnauzer": {
+        "id": 12,
+        "dog": "Giant Schnauzer",
+        "image": "Giant_Schnauzer.jpg"
+    },
+    "Golden Retriever": {
+        "id": 13,
+        "dog": "Golden Retriever",
+        "image": "Golden_Retriever.jpg"
+    }
+}
